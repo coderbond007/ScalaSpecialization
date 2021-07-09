@@ -1,0 +1,5 @@
+[error] coursier.error.ResolutionError$CantDownloadModule: Error downloading org.scalacheck:scalacheck_2.13:1.14.0
+[error]   Not found
+[error]   Not found
+[error]   not found: /Users/pradyumn.ag/.ivy2/local/org.scalacheck/scalacheck_2.13/1.14.0/ivys/ivy.xml
+[error]   download error: Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.13/1.14.0/scalacheck_2.13-1.14.0.pom

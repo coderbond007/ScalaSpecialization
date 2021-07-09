@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/pradyumn.ag/IdeaProjects/forcomp/src/main/scala/forcomp/Anagrams.scala:36:34: method groupBy in class StringOps is deprecated (since 2.13.0): Use `s.toSeq.groupBy(...).view.mapValues(_.unwrap)` instead of `s.groupBy(...)`[0m
+[0m[[0m[33mwarn[0m] [0m[0m      (c, occs) <- w.toLowerCase groupBy (c => c)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
